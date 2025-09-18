@@ -4,7 +4,7 @@ Program ini adalah aplikasi CRUD sederhana berbasis Python yang digunakan untuk 
 Aplikasi ini dibuat untuk latihan fundamental Python, menggunakan konsep list, dictionary, looping, function, dan input/output, serta tambahan library `tabulate` untuk menampilkan data dalam bentuk tabel agar lebih rapih.
 Aplikasi berjalan di terminal/console dengan menu interaktif.
 
-**Fitur Utama**
+**Fitur Utama**/n
 **1. Create Tambah Data**
 - Menambahkan data penghuni kos baru.
 - `No_Kamar`harus unik.
